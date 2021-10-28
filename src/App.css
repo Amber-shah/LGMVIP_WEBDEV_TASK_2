@@ -1,7 +1,6 @@
 nav {
   height: 15vh;
   width: 100%;
-  /*navbar ka colour change krne ke liye change krne ke liye*/
   background-image: linear-gradient(to left, #110436, #686f92);
   color: rgba(0, 0, 0, 0.877);
 }
@@ -27,7 +26,6 @@ nav {
   width: 20%;
   height: 10vh;
   border: 2px solid transparent;
-  /* button ka colour change krne ke liye */
   background-color: #b38383ec;
   font-family: serif;
   font-size: 20px;
@@ -45,8 +43,6 @@ nav {
 .userdatacontainer {
   width: 100%;
   height: fit-content;
-  /*background change krne ke liye*/
-  /*background-image: linear-gradient(to bottom right, #708d8d, #ecd9d9);*/
   background-color:  #3c3c3c
 }
 #main {
@@ -67,7 +63,6 @@ nav {
 
 .profile_cont {
   border-radius: 10%;
-  /*card ka colour change krne ke liye*/
   background-image: linear-gradient(#110436, #686f92);
   margin: 10px;
   padding: 10px;
